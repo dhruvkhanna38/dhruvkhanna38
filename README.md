@@ -5,9 +5,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a 25-year-old Software Engineer from New Delhi, India. 
+I am a Software Engineer from Seattle, Washington. 
 
-I graduated with a Bachelor's degree in Engineering from Netaji Subhas Institue of Technology, New Delhi. Currently, I am a master's student at the University of Washington majoring in Information Management with specializations in Data Science and Product Management.
+I graduated with a Bachelor's degree in Engineering from Netaji Subhas Institue of Technology, New Delhi. Currently, I am a master's student at the University of Washington, Seattle majoring in Information Management with specializations in Data Science and Product Management.
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, AWS, etc. 
 
@@ -37,6 +37,10 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+### Leetcode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mk44633)
 
 ### Projects and Dev Stuffs:
 
