@@ -40,7 +40,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
 ### Leetcode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mk44633?theme=light&font=Preahvihear&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dk_mk_38?theme=light&font=Preahvihear&ext=heatmap)
 
 ### Projects and Dev Stuffs:
 
